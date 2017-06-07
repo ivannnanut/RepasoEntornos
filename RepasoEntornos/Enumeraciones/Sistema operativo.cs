@@ -4,10 +4,10 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace RepasoEntornos.Models
+namespace RepasoEntornos.Enumeraciones
 {
-    class Tienda
+    public class Sistema_operativo
     {
-        
+        enum Sistemas {Android, iOS, Windows }
     }
 }

@@ -43,6 +43,8 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Enumeraciones\Sistema operativo.cs" />
+    <Compile Include="Interfaces\IReparable.cs" />
     <Compile Include="Models\Dispositivo.cs" />
     <Compile Include="Models\Movil.cs" />
     <Compile Include="Models\Ordenador.cs" />
